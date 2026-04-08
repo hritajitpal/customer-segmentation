@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+venv/
+.env
+
+# Large model files (optional - recommended if big)
+*.pkl
+
+# OS
+.DS_Store
